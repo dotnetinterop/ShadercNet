@@ -21,11 +21,16 @@
       <Pack>true</Pack>
       <PackagePath>runtimes/win-x64/native/</PackagePath>
     </Content>
-    <!--<Content Include="libshaderc_shared.so">
+    <Content Include="libshaderc_shared.so">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <Pack>true</Pack>
       <PackagePath>runtimes/linux-x64/native/</PackagePath>
-    </Content>-->
+    </Content>
+    <Content Include="libshaderc_shared.so.1">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <Pack>true</Pack>
+      <PackagePath>runtimes/linux-x64/native/</PackagePath>
+    </Content>
   </ItemGroup>
 
   <ItemGroup>
