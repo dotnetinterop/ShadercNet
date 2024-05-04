@@ -13,6 +13,7 @@
     <Authors>DotNetInterop Project</Authors>
     <RepositoryUrl>https://github.com/dotnetinterop/ShadercNet.git</RepositoryUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Version>1.3.2801.0</Version>
   </PropertyGroup>
 
   <ItemGroup>
